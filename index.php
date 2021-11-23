@@ -31,7 +31,7 @@ and open the template in the editor.
         <style type="text/css">
             .candidato{
                 width: 300px;
-                height: 250px;
+                height: 300px;
                 border: 2px black solid;
                 padding: 5px;
                 margin: 10px;   
